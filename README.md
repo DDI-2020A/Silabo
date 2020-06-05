@@ -56,7 +56,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * pull
     * Resolución de conflictos
     
-  * (Unirse a la clase en Replit)[https://repl.it/classroom/invite/pxjAIoV]
+  * [Unirse a la clase en Replit](https://repl.it/classroom/invite/pxjAIoV)
       
   * ### Ejercicios
     * 1.1. HTML: Hello World
