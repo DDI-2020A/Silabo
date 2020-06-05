@@ -42,9 +42,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ### Clase 1 - Presentación (2020-06-02)
   * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMllIWlUxVEVSMTYwSk1CNTA3TUxLMU1XUS4u)
-  * Verificar instalaciones de XAMPP, PHPStorm.
-  * [Unirse a la clase en GitHub](https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a): Asegurarse de vincular su cuenta de GitHub con su nombre en la lista.
-  * [Crear repositorios individuales para entrega de deberes](https://classroom.github.com/a/9-uJqy7t)
+  * Verificar instalaciones WebStorm.
+  * [Crear repositorios individuales para entrega de deberes]()
   * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Eq9EgfT8hoZDrMx4HEqpU64BRp0uIoGTbUvtx47pmB1hsw?e=u2z7fP)
  
   
