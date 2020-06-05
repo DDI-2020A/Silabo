@@ -48,7 +48,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
  
   
 ### Clase 2 - HTML (2020-06-05)
-  * [Ideas para implementación de proyecto de curso](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ERrEHkqFCchGsmQfHh8xEmMBi7MtJLwB5jm4lK4YKBoDAA?e=NZ7s4U)
+  * [Ideas para implementación de proyecto de curso](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ERrEHkqFCchGsmQfHh8xEmMBByYb4LUEB94Kjx72PLEVxw?e=WOXFQH)
   * Formación de grupos
   * Git
     * clone
