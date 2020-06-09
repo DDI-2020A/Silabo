@@ -85,6 +85,13 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
     
 ### Clase 3 - CSS (2020-06-09)
+  * Definición del proyecto:
+    * Nombre del proyecto
+    * Objetivo
+    * Tipo de usuarios al que está dirigida
+      * Ser lo más especificos en el tipo de usuarios, ejemplo: Hombre y mujeres deportistas de 25 a 35 años.
+    * Listar las funcionalidades principales de la página.
+    
   * ### Ejercicios
     * 2.1. CSS: Your first style
       * 2.1.1 CSS: Background
