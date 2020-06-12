@@ -109,15 +109,17 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 4 - Prototipado (2020-06-12)
-  * Diagramas de flujo del usuario
+  * Diagramas de flujo del usuario. [Miro](https://miro.com/)
+  * [Crear los Buyer personas](https://www.hubspot.es/make-my-persona)
+  
+  
+### Clase 5 - CSS Scaffolding (2020-06-16)
   * Herramientas de prototipado
     * Balsamic
     * Marvel
     * Ninja Mock
   * Desarrollo de Mockups de los proyectos
   
-  
-### Clase 5 - CSS Scaffolding (2020-06-16)
   * ### Ejercicios
     * 3.1. Scaffolding: Display - block vs inline
     * 3.2. Scaffolding: Display - Image Carrousel
