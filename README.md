@@ -132,7 +132,14 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ### Clase 6 - CSS Scaffolding (2020-06-19)  
   * Revisión y corrección de Mockups de los proyectos
-
+  * Fontawesome
+  * Pseudo selectores (:hover, :active: :focused, :visited)
+  * Overflow
+  * [Position fixed, absolute, sticky](https://developer.mozilla.org/es/docs/Web/CSS/position)
+  
+  * ### Lecturas
+    * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+  
     
 ### Clase 7 - CSS Layouts (2020-06-23)
   * ### Ejercicios
@@ -168,6 +175,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
  
 ### Clase 10 - HTML Formularios (2020-07-03)
   * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
+  * ### Lecturas
+    * [Dear New Front-End Developer](https://dev.to/lasertuskey/dear-new-front-end-developer-2d2c?fbclid=IwAR0XlLdJ77laAE4o6NEP90NvMBIiWVsGVAUlYFA846Tul1BoOYnywFR7Yp0)
   
   
 ### Clase 11 - Bootstrap (2020-07-07)
@@ -180,14 +189,25 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 6.5. Bootstrap: Jumbotron and 3 boxes
     * 6.6. Bootstrap: Buttons, alerts, glyphicon and table
     * 6.7. Bootstrap: Forms
+    
+  * ### Lecturas
+    * [CSS Frameworks](https://morioh.com/p/9460a2fe0049?fbclid=IwAR2sxbpYZV5zAxpCF_JM1n2pIJjWZtYh0XhzGO_Y1x3BMCVPKhbrsFLCN2M)
+    * [UI Kits for any day use](https://dev.to/tngeene/ui-kits-for-any-day-use-215e?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
 
 
 ### Clase 12 - Bootstrap (2020-07-10)
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
+  * [Imágenes](https://unsplash.com/)
+  * [Cover Videos](https://coverr.co/)
   * **PRUEBA**
+  
+  * ### Lecturas
+    * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
+    * [Galería con estilos de diseño de páginas web](https://designsystemsrepo.com/design-systems/)
 
 
 ### Clase 13 - JavaScript Eventos (2020-07-14)
+  * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
   * ### Ejercicios
     * 7.0. JS events: Alert on click
     * 7.1. JS events: OnClick: Hello World
@@ -214,6 +234,9 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 8.A. JS DOM: Add LI on click
     * 8.B. JS DOM: Dynamic HTML String
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
+  
+  * ### Video
+    * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
 
 
 ### Clase 15 - JQuery DOM (2020-07-21)
@@ -260,9 +283,19 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * A.B. AJAX: PRE vs DIV
     * A.C. AJAX: JSON access (part-1)
     * A.D. AJAX: JSON Access (part-2)
+    
+  * ## Lecturas
+    * [15 Fun APIs For Your Next Project](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
 
 
-### Clase 18 -  (2020-07-31)
+### Clase 18 - AJAX (2020-07-31)
+  * [FakeMyAPI](https://fakemyapi.com/)
+  * ## Lecturas
+    * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
+    * [Conceptos JS para entender React](https://codequs.com/p/r1U2DMtHL/10-javascript-es6-concepts-you-need-to-master-react/?fbclid=IwAR2NCXvI3_73VLyoDzOt_zL27q32t9sDd2IFjUKacdNjQ69EXKs1naTRp4M)
+    * [Regular vs Arrow functions](https://morioh.com/p/761768c97ae4?fbclid=IwAR0qF6i1C-ILs2MBDqgp7-hlOZwC1OULiBbLm9VB8lUIA16y9xGK5uxFEco)
+    * [Maneras de iterar un arreglo en JS](https://dev.to/misterkevin_js/11-ways-to-iterate-an-array-javascript-3mjg?fbclid=IwAR19YbdOMvk3WHlThK2bgx4FbVzGx9gpIwSpe4fWsHfi8mif10RWDjIzuWQ)
+  
 
 
 
@@ -273,6 +306,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * React Hooks
     * Componentes con estado
     * Formularios
+    
+  * ### Lecturas
+    * [React Virtual DOM](https://medium.com/@tonynguyenit18/how-react-virtual-dom-decide-to-update-browser-dom-91f170718733)
+    * [Usefull JS Snippets](https://morioh.com/p/a76bc7d72226?fbclid=IwAR2xzmcJMG-_13456v9m8_OhxzJGMwaY7q4fiSEDq8av6OxFUvDx0qZf2jw)
+    * [¿Qué es el package.json](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg?fbclid=IwAR1C6nHctdEYpKRD9hsklHSQU-Sqk0oFKR-KNMhJ3KTnyuipjHWYtvn3N3Q)
 
 
 ### Clase 20 - React (2020-08-07)
