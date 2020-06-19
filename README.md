@@ -137,6 +137,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * Overflow
   * [Position fixed, absolute, sticky](https://developer.mozilla.org/es/docs/Web/CSS/position)
   
+  * [Responder encuesta](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUQlc1NUJNTloxU0tBOUFEMlhYRVU3S01ZTi4u)
+  
   * ### Lecturas
     * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
   
