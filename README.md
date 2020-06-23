@@ -160,7 +160,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   
 ### Clase 8 - CSS Layouts (2020-06-26)
-  * [Mockups básicos](https://classroom.github.com/a/FqsO01bu). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes. Entrega 2020-06-27 hasta las 23:00.
+  * [Mockups básicos](https://classroom.github.com/a/FqsO01bu). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes. Entrega 2020-07-03 hasta las 23:00.
   * Completar el Backlog de los proyectos en tablero de ZenHub
 
     
