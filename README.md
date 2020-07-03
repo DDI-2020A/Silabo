@@ -180,6 +180,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
  
 ### Clase 10 - Bootstrap (2020-07-03)
   * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
+  * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
+  * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
   * ### Ejercicios
     * 6.0. Bootstrap: Add bootstrap to your website
     * 6.1. Boostrap: Skeleton
@@ -223,6 +225,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
       * [Generador de ondas SVG](https://www.getwaves.io/)
 
     * Animaciones
+      * [Animaciones con React](https://www.framer.com/api/motion/examples/)
       * [Generador de animaciones CSS](https://animista.ne)
       * [Animaciones CSS](https://freefrontend.com/css-animation-examples/)
       * [Spinners CSS](https://freefrontend.com/css-spinners/)
@@ -242,6 +245,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     
   * ### Lecturas
     * [CSS Frameworks](https://morioh.com/p/9460a2fe0049?fbclid=IwAR2sxbpYZV5zAxpCF_JM1n2pIJjWZtYh0XhzGO_Y1x3BMCVPKhbrsFLCN2M)
+    * [¿Qué significa ser un desarrollador senior?](https://dev.to/tlakomy/so-what-does-it-mean-to-be-a-senior-developer-18mk?fbclid=IwAR1KhW7XkVlVrAXzPdva8Zk3ouklJjM5OKsArl6Ib-d8fEyxkyCaHaSGiOY)
 
 
 ### Clase 12 - JavaScript Eventos (2020-07-10)
@@ -261,8 +265,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 7.8. JS events: Event target
   
   * ### Lecturas
+    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
     * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
-    * [Galería con estilos de diseño de páginas web](https://designsystemsrepo.com/design-systems/)
 
 
 ### Clase 13 - JavaScript DOM (2020-07-14)
@@ -325,6 +329,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     
   * ## Lecturas
     * [15 Fun APIs For Your Next Project](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
+    * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
 
 
 ### Clase 16 - JavaScript DOM (2020-07-24)
@@ -350,6 +355,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * Formularios
     
   * ### Lecturas
+    * [Learn React in 2020](https://dev.to/codeartistryio/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd)
+    * [React Cheatsheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
     * [React Virtual DOM](https://medium.com/@tonynguyenit18/how-react-virtual-dom-decide-to-update-browser-dom-91f170718733)
     * [Usefull JS Snippets](https://morioh.com/p/a76bc7d72226?fbclid=IwAR2xzmcJMG-_13456v9m8_OhxzJGMwaY7q4fiSEDq8av6OxFUvDx0qZf2jw)
     * [¿Qué es el package.json](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg?fbclid=IwAR1C6nHctdEYpKRD9hsklHSQU-Sqk0oFKR-KNMhJ3KTnyuipjHWYtvn3N3Q)
