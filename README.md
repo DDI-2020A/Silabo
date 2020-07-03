@@ -191,6 +191,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 6.5. Bootstrap: Jumbotron and 3 boxes
     * 6.6. Bootstrap: Buttons, alerts, glyphicon and table
     * 6.7. Bootstrap: Forms
+  * [Ejemplo básico bootstrap](https://github.com/DDI-2020A/ejemplo-basico-bootstrap)
+  * [Completar ejercicio de bootstrap](https://classroom.github.com/a/ahGhygxB)
   * Material de diseño
     * Diseños
       * [Diseños de páginas (ver en la opción others)](https://delesign.com/free-designs/website)
