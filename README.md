@@ -243,7 +243,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   
 ### Clase 11 - Bootstrap (2020-07-07)
-  * Ejercicios Bootstrap
+  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/gTKZOpFz)
     
   * ### Lecturas
     * [CSS Frameworks](https://morioh.com/p/9460a2fe0049?fbclid=IwAR2sxbpYZV5zAxpCF_JM1n2pIJjWZtYh0XhzGO_Y1x3BMCVPKhbrsFLCN2M)
