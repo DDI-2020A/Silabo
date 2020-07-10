@@ -252,7 +252,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ### Clase 12 - JavaScript Eventos (2020-07-10)
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
-  * **PRUEBA**
+  * **PRUEBA** [Crear repo](https://classroom.github.com/a/rGKe_vET)
   * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
   * ### Ejercicios
     * 7.0. JS events: Alert on click
