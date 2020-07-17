@@ -312,6 +312,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 15 - AJAX (2020-07-21)
+  * Definir métodos de evaluación: 
+    * Opción 1: Examen
+    * Opción 2: Miniproyecto
+    
+  * Mostrar proceso de Figma con Antd
+  
   * ### Ejercicios
     * A.1. AJAX: GET - Hello World
     * A.2. AJAX: Hello World
