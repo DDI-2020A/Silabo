@@ -290,6 +290,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
 
 ### Clase 14 - JQuery DOM (2020-07-17)
+  * [Ejercicio en clase JS DOM](https://github.com/DDI-2020A/ejercicio-dom-js)
   * ### Ejercicios
     * 9.1. JQuery DOM: Hello World
     * 9.2. JQuery DOM: Hello on click
