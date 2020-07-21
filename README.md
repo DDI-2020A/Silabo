@@ -315,7 +315,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * Definir métodos de evaluación: 
     * Opción 1: Examen
     * Opción 2: Miniproyecto (Se define implementar esta opción)
-    * [Ejemplo jQuery](https://github.com/DDI-2020A/clase-jquery)
+    * [Ejemplo jQuery](https://github.com/DDI-2020A/clase-jquery) para ejecutar el proyecto, deben clonarlo y dentro del proyecto ejecutar `npm i`
     
   * Mostrar proceso de Figma con Antd
   
