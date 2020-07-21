@@ -314,7 +314,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 15 - AJAX (2020-07-21)
   * Definir métodos de evaluación: 
     * Opción 1: Examen
-    * Opción 2: Miniproyecto
+    * Opción 2: Miniproyecto (Se define implementar esta opción)
+    * [Ejemplo jQuery](https://github.com/DDI-2020A/clase-jquery)
     
   * Mostrar proceso de Figma con Antd
   
