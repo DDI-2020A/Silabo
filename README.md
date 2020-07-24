@@ -343,8 +343,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 16 - JavaScript DOM (2020-07-24)
-  * **EXAMEN**
-  * **ENTREGA DE PROYECTO BIMESTRE**
+  * Intro JSON con jQuery
 
 
 ### Clase 17 - AJAX (2020-07-28)
@@ -357,6 +356,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 18 - React (2020-07-31)
+
+  * ### ENTREGA MINIPROYECTOS
   * ### Ejercicios
     * Create React App
     * Componentes sin estado
@@ -375,7 +376,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 19 - React (2020-08-04)
-
+  * ### ENTREGA DISEÑOS
 
 
 ### Clase 20 - React Router - Método fetch (2020-08-07)
