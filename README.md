@@ -347,6 +347,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 17 - AJAX (2020-07-28)
+  * [Publicar en GitHub pages](https://www.codecademy.com/articles/f1-u3-github-pages)
   * [FakeMyAPI](https://fakemyapi.com/)
   * ## Lecturas
     * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
