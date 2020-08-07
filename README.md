@@ -382,6 +382,9 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ### Clase 20 - React Router - Método fetch (2020-08-07)
   * [Movies](https://classroom.github.com/a/HFW4H5JQ)
+    * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
+    * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
+    
   * [Posts](https://classroom.github.com/a/jD3w6tQh)
   * ### Ejercicios
     * Navegación
