@@ -391,11 +391,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * Comunicación con una API externa
 
 
-### Clase 21 - React Router - Método fetch (2020-08-11)
+### Clase 21 - Intro a React - Método fetch (2020-08-11)
+  * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
 
 
 
-### Clase 22 - Componentes Reutilizables (2020-08-14)
+### Clase 22 - React Router - Componentes Reutilizables (2020-08-14)
   * ### Ejercicios
     * Componetes reutilizables
     * React + Antd
