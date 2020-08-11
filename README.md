@@ -398,7 +398,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   
   * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
-  * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/S4pplbJZ)
+    * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/S4pplbJZ)
 
 
 
