@@ -392,7 +392,13 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 21 - Intro a React - Método fetch (2020-08-11)
-  * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
+  * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
+  * [Tutorial de JS](https://javascript.info/)
+  
+  
+  * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
+  * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/S4pplbJZ)
 
 
 
