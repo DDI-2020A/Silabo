@@ -403,6 +403,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 22 - React Router - Componentes Reutilizables (2020-08-14)
+  * [Código en clase useEffect](https://github.com/DDI-2020A/clase22-useeffect)
   * [Ejercicio tareas externas](https://classroom.github.com/a/x8rRPQ06)
   * ### Ejercicios
     * Componetes reutilizables
