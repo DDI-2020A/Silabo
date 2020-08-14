@@ -403,6 +403,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 22 - React Router - Componentes Reutilizables (2020-08-14)
+  * [Ejercicio tareas externas](https://classroom.github.com/a/x8rRPQ06)
   * ### Ejercicios
     * Componetes reutilizables
     * React + Antd
