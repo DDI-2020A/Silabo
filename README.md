@@ -414,7 +414,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 23 - Componentes Reutilizables (Antd) (2020-08-18)
   * [Solución ejercicio todo list externa](https://github.com/chalosalvador/ejercicio-todolist-externa)
   * [Intro andtd](https://github.com/DDI-2020A/intro-antd/tree/antd)
-  * Ejercicio:
+  * Ejercicio antd. [Crear el repo](https://classroom.github.com/a/piq9sp1r)
     * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
     * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
       * Se debe mostrar la imagen, título, género, director directamente en el card
