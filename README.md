@@ -412,7 +412,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 23 - Componentes Reutilizables (2020-08-18)
-
+  * [Solución ejercicio todo list externa](https://github.com/chalosalvador/ejercicio-todolist-externa)
     
 
 ### Clase 24 - Firebase (2020-08-21)
