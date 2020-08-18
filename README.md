@@ -402,7 +402,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 22 - React Router - Componentes Reutilizables (2020-08-14)
+### Clase 22 - Componentes Reutilizables (2020-08-14)
   * [Código en clase useEffect](https://github.com/DDI-2020A/clase22-useeffect)
   * [Ejercicio tareas externas](https://classroom.github.com/a/x8rRPQ06)
   * ### Ejercicios
@@ -411,11 +411,32 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * React + Material Design
 
 
-### Clase 23 - Componentes Reutilizables (2020-08-18)
+### Clase 23 - Componentes Reutilizables (Antd) (2020-08-18)
   * [Solución ejercicio todo list externa](https://github.com/chalosalvador/ejercicio-todolist-externa)
+  * [Intro andtd](https://github.com/DDI-2020A/intro-antd/tree/antd)
+  * Ejercicio:
+    * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
+    * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
+      * Se debe mostrar la imagen, título, género, director directamente en el card
+      * Cada card tiene 2 botones en su footer
+        * 1. Ver detalles, ícono: <EyeOutlined />. Abre un modal con la siguiente info:
+            * Muestra todo el resto de atributos de la película utilizando el componente: https://ant.design/components/descriptions/#components-descriptions-demo-border
+            * Debe mostrar los comentarios debajo , con el componente: https://ant.design/components/comment/#components-comment-demo-list
+        * 2. Añadir comentario, ícono: <CommentOutlined />. 
+            * Debe abrir otro modal con el formulario de crear un comentario: https://ant.design/components/comment/#components-comment-demo-editor
+            * Esto añade una nueva propiedad en el objeto de la película correspondiente para almacenar estos comentarios como un arreglo.
+            * Los comentarios tendrán la siguiente estructura:
+            
+              ```json
+              {
+                "text": "Texto del comentario",
+                "createdAt": "fecha actual cuando se creó el comentario", // pueden usar new Date() o la librería momentjs (recomendado)
+                "user": "Nombre genérico de usuario"
+              }
+              ```
     
 
-### Clase 24 - Firebase (2020-08-21)
+### Clase 24 - React Router (2020-08-21)
 
 
 
