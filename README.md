@@ -436,7 +436,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
               ```
     
 
-### Clase 24 - React Router (2020-08-21)
+### Clase 24 - Personalización Antd (2020-08-21)
+  * [Ejercicio comentarios peliculas](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas)
 
 
 
