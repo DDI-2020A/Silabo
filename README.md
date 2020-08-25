@@ -443,7 +443,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ### Clase 25 - React Router y Layout (2020-08-25)
   * [React Router](https://reactrouter.com/)
-  * [React Router y Layout](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/layout)
+  * [Ejemplo de React Router y Layout](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/layout)
 
 
 
