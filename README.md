@@ -441,13 +441,13 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 25 - Firebase (2020-08-25)
+### Clase 25 - React Router y Layout (2020-08-25)
+  * [React Router](https://reactrouter.com/)
+  * [React Router y Layout](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/layout)
 
-  * **PRUEBA**
 
 
-
-### Clase 26 - Lectura y Escritura en Firebase (2020-08-28)
+### Clase 26 - Firebase - Lectura y Escritura en Firebase (2020-08-28)
 
 
 
@@ -458,7 +458,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 28 - Actualización en tiempo real (2020-09-04)
-
+  * ### **PRUEBA**
 
 
 ### Clase 29 - Actualización en tiempo real (2020-09-08)
