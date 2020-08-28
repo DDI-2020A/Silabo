@@ -448,6 +448,10 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 26 - Firebase - Lectura y Escritura en Firebase (2020-08-28)
+  * [Ejemplo Firebase](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/firebase)
+  * ### Deber
+    * Leer sobre la [Estructura de datos en Direbase](https://firebase.google.com/docs/database/web/structure-data)
+    * Inicializar Firebase en sus proyectos
 
 
 
