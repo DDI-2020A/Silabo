@@ -456,9 +456,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 27 - Lectura y Escritura en Firebase (2020-09-01)
-  * ### Ejercicios
+  * [Ejemplo ccmpleto Firebase](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/firebase)
     
-
 
 
 ### Clase 28 - Storage y Auth (2020-09-04)
