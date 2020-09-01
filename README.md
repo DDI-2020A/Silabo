@@ -461,8 +461,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 28 - Actualización en tiempo real (2020-09-04)
-  * ### **PRUEBA**
+### Clase 28 - Storage y Auth (2020-09-04)
+
 
 
 ### Clase 29 - Actualización en tiempo real (2020-09-08)
@@ -471,7 +471,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 30 - Autenticación (2020-09-11)
-
+  * ### **PRUEBA**
 
 
 ### Clase 31 - Autenticación (2020-09-15)
