@@ -461,14 +461,13 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 28 - Análisis de UX - Storage y Auth (2020-09-04)
-  * [Checklist de UX para desarrolladores](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXquZ79fwXVOuvZDahgm1BEBkq7tlMq2pa_R4E95pucgiQ?e=SwgUFk)
-  * [Test de usabilidad con usuarios](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ7B8-JJpSdKisuCB4eHKaIB2jTWjAPCVlN5MGuRmKb1-Q?e=Y3rcwA)
-  * [Heurísticas de usabilidad](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaKFTNdR_BREhH6_o_UMaSIBo8h1i6DUtTZGknDHx-5bnA?e=xB2UTC)
-
+  * [Ejemplo Auth](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/firebase-auth)
 
 
 ### Clase 29 - Actualización en tiempo real (2020-09-08)
-  * ### Ejercicios
+  * [Checklist de UX para desarrolladores](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXquZ79fwXVOuvZDahgm1BEBkq7tlMq2pa_R4E95pucgiQ?e=SwgUFk)
+  * [Test de usabilidad con usuarios](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ7B8-JJpSdKisuCB4eHKaIB2jTWjAPCVlN5MGuRmKb1-Q?e=Y3rcwA)
+  * [Heurísticas de usabilidad](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaKFTNdR_BREhH6_o_UMaSIBo8h1i6DUtTZGknDHx-5bnA?e=xB2UTC)
 
 
 
