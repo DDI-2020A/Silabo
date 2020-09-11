@@ -472,7 +472,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 30 - Autenticación (2020-09-11)
-  * ### **PRUEBA**
+  * ### **PRUEBA** [Crear repo](https://classroom.github.com/a/o0AHiAJt)
 
 
 ### Clase 31 - Autenticación (2020-09-15)
