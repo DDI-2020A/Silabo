@@ -480,8 +480,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 32 -  (2020-09-18)
-  * **EXAMEN**
+### Clase 32 -  (2020-09-24)
+  * **EXAMEN** [CREAR REPO](https://classroom.github.com/a/z1SOEzEq)
+  
+  
+### (2020-09-25)
   * **ENTREGA DE PROYECTO FINAL**
 
 
