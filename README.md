@@ -60,7 +60,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * merge
     * Resolución de conflictos
     
-  * [Unirse a la clase en Replit](https://repl.it/teams/join/rrwmwhszsuyegwrfpidhsvdegiyqohhq-DiseodeInterfac)
+  * [Unirse a la clase en Replit](https://repl.it/classroom/invite/zVeE2yH)
       
   * ### Ejercicios
     * 1.1. HTML: Hello World
