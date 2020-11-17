@@ -1,8 +1,8 @@
 # Sílabo para Diseño de Interfaces (TDSR313) ESFOT-EPN
 
 * **Materia:** TDSR313 Diseño de Interfaces
-* **Lugar:** Zoom (Meeting ID: 943 2605 8974)
-* **Horario:**  Martes y Viernes de 7:00 a 10:00
+* **Lugar:** Zoom (Meeting ID: 851 3447 4861)
+* **Horario:**  Martes y Jueves de 7:00 a 10:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
 
 ## Objetivos del Curso
@@ -32,7 +32,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 | Evaluación              | Valoración |
 | ----------------------  | ---------- |
-| Deberes videos          | 20%        |
+| Deberes                 | 20%        |
 | Prueba parcial          | 20%        |
 | Trabajo grupal          | 30%        |
 | Examen                  | 30%        |
@@ -40,22 +40,27 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ## CALENDARIO DE CLASES
 
-### Clase 1 - Presentación (2020-06-02)
-  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMllIWlUxVEVSMTYwSk1CNTA3TUxLMU1XUS4u)
-  * Verificar instalaciones WebStorm.
-  * [Crear repositorios individuales para entrega de deberes]()
-  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Eq9EgfT8hoZDrMx4HEqpU64BRp0uIoGTbUvtx47pmB1hsw?e=u2z7fP)
+### Clase 1 - Presentación (2020-11-17)
+  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytURVhJU0dLWjdLNzk4RTU2U1RXVzdDVENJMi4u)
+  * Verificar instalaciones WebStorm y VSCode.
+  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/EhPswlIurK5CujpRnY2L948BHEe2A0L-NXO4kHyisNax1A?e=3ShidQ)
  
   
-### Clase 2 - HTML (2020-06-05)
+### Clase 2 - HTML (2020-11-19)
   * [Ideas para implementación de proyecto de curso](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ERrEHkqFCchGsmQfHh8xEmMBByYb4LUEB94Kjx72PLEVxw?e=WOXFQH)
   * Formación de grupos
-  * Git
-    * clone
+  * Git (https://rogerdudler.github.io/git-guide/index.es.html)
+    * init
+    * add
+    * commit
+    * push
     * pull
+    * clone
+    * remote
+    * merge
     * Resolución de conflictos
     
-  * [Unirse a la clase en Replit](https://repl.it/classroom/invite/pxjAIoV)
+  * [Unirse a la clase en Replit](https://repl.it/teams/join/rrwmwhszsuyegwrfpidhsvdegiyqohhq-DiseodeInterfac)
       
   * ### Ejercicios
     * 1.1. HTML: Hello World
@@ -84,7 +89,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
 
     
-### Clase 3 - CSS (2020-06-09)
+### Clase 3 - CSS (2020-11-24)
   * Definición del proyecto:
     * Nombre del proyecto
     * Objetivo
@@ -108,12 +113,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 2.D. CSS: Anchor like button
 
 
-### Clase 4 - Prototipado (2020-06-12)
+### Clase 4 - Prototipado (2020-11-26)
   * Diagramas de flujo del usuario. [Miro](https://miro.com/)
   * [Crear los Buyer personas](https://www.hubspot.es/make-my-persona)
   
   
-### Clase 5 - CSS Scaffolding (2020-06-16)
+### Clase 5 - CSS Scaffolding (2020-12-01)
   * Herramientas de prototipado
     * Balsamic
     * Marvel
@@ -130,7 +135,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 3.7. Scaffolding: Position - Fixed
     * 3.8. Scaffolding: Overflow
 
-### Clase 6 - CSS Scaffolding (2020-06-19)  
+### Clase 6 - CSS Scaffolding (2020-12-03)  
   * Revisión y corrección de Mockups de los proyectos
   * Fontawesome
   * Pseudo selectores (:hover, :active: :focused, :visited)
@@ -143,7 +148,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
   
     
-### Clase 7 - CSS Layouts (2020-06-23)
+### Clase 7 - CSS Layouts (2020-12-08)
   * ### Ejercicios
     * 4.1. Layouts: Display: none;
     * 4.2. Layouts: Position: relative vs absolute
@@ -156,18 +161,18 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 4.9. Layouts: ::Before and ::After
       * 4.9.2. Layouts: Calendar icon
     * 4.A. Layouts: Static layout
-  * [Ejercicio HTML y CSS básico](https://classroom.github.com/a/qFwuzpk4). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images. Entrega 2020-06-24 hasta las 23:00.
+  * [Ejercicio HTML y CSS básico](). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
   
   
-### Clase 8 - CSS Layouts (2020-06-26)
-  * [Mockups básicos](https://classroom.github.com/a/FqsO01bu). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes. Entrega 2020-07-03 hasta las 23:00.
+### Clase 8 - CSS Layouts (2020-12-10)
+  * [Mockups básicos](). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes.
   * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
-  * [Crear repositorios grupales](https://classroom.github.com/g/l1NvVCdD)
+  * [Crear repositorios grupales]()
   * Completar el Backlog de los proyectos en tablero de ZenHub
 
     
-### Clase 9 - HTML Formularios (2020-06-30)
-  * [Ejemplo forms](https://github.com/DDI-2020A/intro-forms)
+### Clase 9 - HTML Formularios (2020-12-15)
+  * [Ejemplo forms](https://github.com/DDI-ESFOT/intro-forms)
   * ### Ejercicios
     * 5.1. Forms: Type=Radio
     * 5.2. Forms: Replicate simple form
@@ -178,7 +183,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 5.7. Forms: Spectacular login form
  
  
-### Clase 10 - Bootstrap (2020-07-03)
+### Clase 10 - Bootstrap (2020-12-17)
   * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
   * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
   * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
@@ -191,8 +196,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 6.5. Bootstrap: Jumbotron and 3 boxes
     * 6.6. Bootstrap: Buttons, alerts, glyphicon and table
     * 6.7. Bootstrap: Forms
-  * [Ejemplo básico bootstrap](https://github.com/DDI-2020A/ejemplo-basico-bootstrap)
-  * [Completar ejercicio de bootstrap](https://classroom.github.com/a/ahGhygxB)
+  * [Ejemplo básico bootstrap](https://github.com/DDI-ESFOT/ejemplo-basico-bootstrap)
+  * [Completar ejercicio de bootstrap]()
   * Material de diseño
     * Diseños
       * [Diseños de páginas (ver en la opción others)](https://delesign.com/free-designs/website)
@@ -242,17 +247,17 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [Dear New Front-End Developer](https://dev.to/lasertuskey/dear-new-front-end-developer-2d2c?fbclid=IwAR0XlLdJ77laAE4o6NEP90NvMBIiWVsGVAUlYFA846Tul1BoOYnywFR7Yp0)
   
   
-### Clase 11 - Bootstrap (2020-07-07)
-  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/gTKZOpFz)
+### Clase 11 - Bootstrap (2020-12-22)
+  * [Ejercicio Bootstrap Singolo]()
     
   * ### Lecturas
     * [CSS Frameworks](https://morioh.com/p/9460a2fe0049?fbclid=IwAR2sxbpYZV5zAxpCF_JM1n2pIJjWZtYh0XhzGO_Y1x3BMCVPKhbrsFLCN2M)
     * [¿Qué significa ser un desarrollador senior?](https://dev.to/tlakomy/so-what-does-it-mean-to-be-a-senior-developer-18mk?fbclid=IwAR1KhW7XkVlVrAXzPdva8Zk3ouklJjM5OKsArl6Ib-d8fEyxkyCaHaSGiOY)
 
 
-### Clase 12 - JavaScript Eventos (2020-07-10)
+### Clase 12 - JavaScript Eventos (2020-12-24)
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
-  * **PRUEBA** [Crear repo](https://classroom.github.com/a/rGKe_vET)
+  * **PRUEBA** [Crear repo]()
   * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
   * ### Ejercicios
     * 7.0. JS events: Alert on click
@@ -271,7 +276,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
 
 
-### Clase 13 - JavaScript DOM (2020-07-14)
+### Clase 13 - JavaScript DOM (2021-01-05)
   * ### Ejercicios
     * 8.1. JS DOM: Select DOM elements
     * 8.2. JS DOM: Change Div Background
@@ -289,8 +294,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * ### Video
     * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
 
-### Clase 14 - JQuery DOM (2020-07-17)
-  * [Ejercicio en clase JS DOM](https://github.com/DDI-2020A/ejercicio-dom-js)
+### Clase 14 - JQuery DOM (2021-01-07)
+  * [Ejercicio en clase JS DOM](https://github.com/DDI-ESFOT/ejercicio-dom-js)
   * ### Ejercicios
     * 9.1. JQuery DOM: Hello World
     * 9.2. JQuery DOM: Hello on click
@@ -311,11 +316,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 9.H. JQuery DOM: Animate Rocket (part-2)
 
 
-### Clase 15 - AJAX (2020-07-21)
+### Clase 15 - AJAX (2021-01-12)
   * Definir métodos de evaluación: 
     * Opción 1: Examen
     * Opción 2: Miniproyecto (Se define implementar esta opción)
-    * [Ejemplo jQuery](https://github.com/DDI-2020A/clase-jquery) para ejecutar el proyecto, deben clonarlo y dentro del proyecto ejecutar `npm i`
+    * [Ejemplo jQuery](https://github.com/DDI-ESFOT/clase-jquery) para ejecutar el proyecto, deben clonarlo y dentro del proyecto ejecutar `npm i`
     
   * Mostrar proceso de Figma con Antd
   
@@ -342,11 +347,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
 
 
-### Clase 16 - JavaScript DOM (2020-07-24)
+### Clase 16 - JavaScript DOM (2021-01-14)
   * Intro JSON con jQuery
 
 
-### Clase 17 - AJAX (2020-07-28)
+### Clase 17 - AJAX (2021-01-19)
   * [Publicar en GitHub pages](https://www.codecademy.com/articles/f1-u3-github-pages)
   * [FakeMyAPI](https://fakemyapi.com/)
   * ## Lecturas
@@ -356,7 +361,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [Maneras de iterar un arreglo en JS](https://dev.to/misterkevin_js/11-ways-to-iterate-an-array-javascript-3mjg?fbclid=IwAR19YbdOMvk3WHlThK2bgx4FbVzGx9gpIwSpe4fWsHfi8mif10RWDjIzuWQ)
 
 
-### Clase 18 - React (2020-07-31)
+### Clase 18 - React (2021-01-21)
 
   * ### ENTREGA MINIPROYECTOS
   * ### Ejercicios
@@ -376,45 +381,45 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 19 - React (2020-08-04)
+### Clase 19 - React (2021-01-26)
   * ### ENTREGA DISEÑOS
 
 
-### Clase 20 - React Router - Método fetch (2020-08-07)
-  * [Movies](https://classroom.github.com/a/HFW4H5JQ)
+### Clase 20 - React Router - Método fetch (2021-01-28)
+  * [Movies]()
     * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
     * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
     
-  * [Posts](https://classroom.github.com/a/jD3w6tQh)
+  * [Posts]()
   * ### Ejercicios
     * Navegación
     * Comunicación con una API externa
 
 
-### Clase 21 - Intro a React - Método fetch (2020-08-11)
+### Clase 21 - Intro a React - Método fetch (2021-02-02)
   * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
   * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
   * [Tutorial de JS](https://javascript.info/)
   
   
   * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
-    * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/S4pplbJZ)
+    * [Ejercicio Lista de tareas con React]()
 
 
 
-### Clase 22 - Componentes Reutilizables (2020-08-14)
-  * [Código en clase useEffect](https://github.com/DDI-2020A/clase22-useeffect)
-  * [Ejercicio tareas externas](https://classroom.github.com/a/x8rRPQ06)
+### Clase 22 - Componentes Reutilizables (2021-02-04)
+  * [Código en clase useEffect](https://github.com/DDI-ESFOT/clase22-useeffect)
+  * [Ejercicio tareas externas]()
   * ### Ejercicios
     * Componetes reutilizables
     * React + Antd
     * React + Material Design
 
 
-### Clase 23 - Componentes Reutilizables (Antd) (2020-08-18)
+### Clase 23 - Componentes Reutilizables (Antd) (2021-02-09)
   * [Solución ejercicio todo list externa](https://github.com/chalosalvador/ejercicio-todolist-externa)
-  * [Intro andtd](https://github.com/DDI-2020A/intro-antd/tree/antd)
-  * Ejercicio antd. [Crear el repo](https://classroom.github.com/a/piq9sp1r)
+  * [Intro andtd](https://github.com/DDI-ESFOT/intro-antd/tree/antd)
+  * Ejercicio antd. [Crear el repo]()
     * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
     * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
       * Se debe mostrar la imagen, título, género, director directamente en el card
@@ -436,55 +441,55 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
               ```
     
 
-### Clase 24 - Personalización Antd (2020-08-21)
-  * [Ejercicio comentarios peliculas](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas)
+### Clase 24 - Personalización Antd (2021-02-11)
+  * [Ejercicio comentarios peliculas](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas)
 
 
 
-### Clase 25 - React Router y Layout (2020-08-25)
+### Clase 25 - React Router y Layout (2021-02-18)
   * [React Router](https://reactrouter.com/)
-  * [Ejemplo de React Router y Layout](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/layout)
+  * [Ejemplo de React Router y Layout](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/layout)
 
 
 
-### Clase 26 - Firebase - Lectura y Escritura en Firebase (2020-08-28)
-  * [Ejemplo Firebase](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/firebase)
+### Clase 26 - Firebase - Lectura y Escritura en Firebase (2021-02-23)
+  * [Ejemplo Firebase](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/firebase)
   * ### Deber
-    * Leer sobre la [Estructura de datos en Direbase](https://firebase.google.com/docs/database/web/structure-data)
+    * Leer sobre la [Estructura de datos en Firebase](https://firebase.google.com/docs/database/web/structure-data)
     * Inicializar Firebase en sus proyectos
 
 
 
-### Clase 27 - Lectura y Escritura en Firebase (2020-09-01)
-  * [Ejemplo completo Firebase](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/firebase)
+### Clase 27 - Lectura y Escritura en Firebase (2021-02-25)
+  * [Ejemplo completo Firebase](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/firebase)
     
 
 
-### Clase 28 - Análisis de UX - Storage y Auth (2020-09-04)
-  * [Ejemplo Auth](https://github.com/DDI-2020A/ejercicio-cometarios-peliculas/tree/firebase-auth)
+### Clase 28 - Análisis de UX - Storage y Auth (2021-03-02)
+  * [Ejemplo Auth](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/firebase-auth)
 
 
-### Clase 29 - Actualización en tiempo real (2020-09-08)
+### Clase 29 - Actualización en tiempo real (2021-03-04)
   * [Checklist de UX para desarrolladores](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXquZ79fwXVOuvZDahgm1BEBkq7tlMq2pa_R4E95pucgiQ?e=SwgUFk)
   * [Test de usabilidad con usuarios](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ7B8-JJpSdKisuCB4eHKaIB2jTWjAPCVlN5MGuRmKb1-Q?e=Y3rcwA)
   * [Heurísticas de usabilidad](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaKFTNdR_BREhH6_o_UMaSIBo8h1i6DUtTZGknDHx-5bnA?e=xB2UTC)
 
 
 
-### Clase 30 - Autenticación (2020-09-11)
-  * ### **PRUEBA** [Crear repo](https://classroom.github.com/a/o0AHiAJt)
+### Clase 30 - Autenticación (2021-03-09)
+  * ### **PRUEBA** [Crear repo]()
 
 
-### Clase 31 - Autenticación (2020-09-15)
+### Clase 31 - Autenticación (2021-03-11)
   * ### Ejercicios
 
 
 
-### Clase 32 -  (2020-09-24)
-  * **EXAMEN** [CREAR REPO](https://classroom.github.com/a/z1SOEzEq)
+### Clase 32 -  (2021-03-16)
+  * **EXAMEN** [CREAR REPO]()
   
   
-### (2020-09-25)
+### EXTRA - (2020-03-18)
   * **ENTREGA DE PROYECTO FINAL**
 
 
