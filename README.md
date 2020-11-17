@@ -77,13 +77,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 1.9. HTML: Image with text
     * 1.A. HTML: Video tag
     * 1.B. HTML: Iframe Tag
-    * 1.5. HTML: Formating Text
-    * 1.6. HTML: Replicate HTML
-    * 1.7. HTML: Nested tags
-    * 1.8. HTML: My first table
-    * 1.9. HTML: Image with text
-    * 1.A. HTML: Video tag
-    * 1.B. HTML: Iframe Tag
  
   * ### Lecturas
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
