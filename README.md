@@ -61,6 +61,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * Resolución de conflictos
     
   * [Unirse a la clase en Replit](https://repl.it/classroom/invite/zVeE2yH)
+  * [Ejemplo en clase de html](https://github.com/DDI-ESFOT/intro-html)
       
   * ### Ejercicios
     * 1.1. HTML: Hello World
