@@ -49,17 +49,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 2 - HTML (2020-11-19)
   * [Ideas para implementación de proyecto de curso](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ERrEHkqFCchGsmQfHh8xEmMBByYb4LUEB94Kjx72PLEVxw?e=WOXFQH)
   * Formación de grupos
-  * Git (https://rogerdudler.github.io/git-guide/index.es.html)
-    * init
-    * add
-    * commit
-    * push
-    * pull
-    * clone
-    * remote
-    * merge
-    * Resolución de conflictos
-    
   * [Unirse a la clase en Replit](https://repl.it/classroom/invite/zVeE2yH)
   * [Ejemplo en clase de html](https://github.com/DDI-ESFOT/intro-html)
       
@@ -90,7 +79,18 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * Tipo de usuarios al que está dirigida
       * Ser lo más especificos en el tipo de usuarios, ejemplo: Hombre y mujeres deportistas de 25 a 35 años.
     * Listar las funcionalidades principales de la página.
-    
+  
+  * Git (https://rogerdudler.github.io/git-guide/index.es.html)
+    * init
+    * add
+    * commit
+    * push
+    * pull
+    * clone
+    * remote
+    * merge
+    * Resolución de conflictos
+  
   * ### Ejercicios
     * 2.1. CSS: Your first style
       * 2.1.1 CSS: Background
