@@ -108,7 +108,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 4 - Prototipado (2020-11-26)
-  * Recursos de referencia de HTML:
+  * Diagramas de flujo del usuario. [Miro](https://miro.com/)
+  * [Crear los Buyer personas](https://www.hubspot.es/make-my-persona)
+  
+  
+### Clase 5 - CSS Scaffolding (2020-12-01)
+   * Recursos de referencia de HTML:
     * https://developer.mozilla.org/en-US/docs/Learn/HTML
     * https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
   * Recursos de referencia de CSS: 
@@ -116,11 +121,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * https://adam-marsden.co.uk/css-cheat-sheet
   * Recursos de referencias sobre Git y GitHub: 
     * https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub
-  * Diagramas de flujo del usuario. [Miro](https://miro.com/)
-  * [Crear los Buyer personas](https://www.hubspot.es/make-my-persona)
-  
-  
-### Clase 5 - CSS Scaffolding (2020-12-01)
   * Herramientas de prototipado
     * Balsamic
     * Marvel
