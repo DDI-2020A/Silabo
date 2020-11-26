@@ -108,6 +108,15 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 4 - Prototipado (2020-11-26)
+  * Recursos de referencia de HTML:
+    * https://developer.mozilla.org/en-US/docs/Learn/HTML
+    * http://es.html.net/tutorials/html/
+    * https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
+  * Recursos de referencia de CSS: 
+    * https://developer.mozilla.org/en-US/docs/Learn/CSS
+    * http://es.html.net/tutorials/css/
+    * https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf
+  * Recursos de referencias sobre Git y GitHub: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub
   * Diagramas de flujo del usuario. [Miro](https://miro.com/)
   * [Crear los Buyer personas](https://www.hubspot.es/make-my-persona)
   
@@ -250,6 +259,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 12 - JavaScript Eventos (2020-12-24)
+  * Referencias sobre JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
   * **PRUEBA** [Crear repo]()
   * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
@@ -356,7 +366,9 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 18 - React (2021-01-21)
-
+  * Recursos de referencia para React
+    * https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+    * https://reactjs.org/docs/getting-started.html
   * ### ENTREGA MINIPROYECTOS
   * ### Ejercicios
     * Create React App
