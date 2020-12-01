@@ -122,9 +122,9 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * Recursos de referencias sobre Git y GitHub: 
     * https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub
   * Herramientas de prototipado
-    * Balsamic
-    * Marvel
-    * Ninja Mock
+    * [Marvel](https://marvelapp.com/)
+    * [Ninja Mock](https://ninjamock.com/)
+    * [Balsamic](https://balsamiq.com/)
   * Desarrollo de Mockups de los proyectos
   
   * ### Ejercicios
