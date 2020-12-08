@@ -163,7 +163,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 4.9. Layouts: ::Before and ::After
       * 4.9.2. Layouts: Calendar icon
     * 4.A. Layouts: Static layout
-  * [Ejercicio HTML y CSS básico](). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
+  * [Ejercicio HTML y CSS básico](https://classroom.github.com/a/qFwuzpk4). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
   
   
 ### Clase 8 - CSS Layouts (2020-12-10)
