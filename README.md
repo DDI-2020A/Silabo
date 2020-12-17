@@ -252,6 +252,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   
 ### Clase 11 - Bootstrap (2020-12-22)
+  * Connected Episodio Clouds (Netflix)
   * [Ejercicio Bootstrap Singolo]()
     
   * ### Lecturas
