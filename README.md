@@ -176,6 +176,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     
 ### Clase 9 - HTML Formularios (2020-12-15)
   * [Ejemplo forms](https://github.com/DDI-ESFOT/intro-forms)
+  * [Referencia para fomularios HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Your_first_HTML_form)
   * ### Ejercicios
     * 5.1. Forms: Type=Radio
     * 5.2. Forms: Replicate simple form
