@@ -187,8 +187,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 5.7. Forms: Spectacular login form
  
  
-### Clase 10 - Bootstrap (2020-12-17)
-  * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
+### Clase 11 - Bootstrap (2020-12-22)
   * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
   * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
   * ### Ejercicios
@@ -202,6 +201,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 6.7. Bootstrap: Forms
   * [Ejemplo básico bootstrap](https://github.com/DDI-ESFOT/ejemplo-basico-bootstrap)
   * [Completar ejercicio de bootstrap](https://classroom.github.com/a/ahGhygxB)
+  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/gTKZOpFz)
+  
   * Material de diseño
     * Diseños
       * [Diseños de páginas (ver en la opción others)](https://delesign.com/free-designs/website)
@@ -249,23 +250,15 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   * ### Lecturas
     * [Dear New Front-End Developer](https://dev.to/lasertuskey/dear-new-front-end-developer-2d2c?fbclid=IwAR0XlLdJ77laAE4o6NEP90NvMBIiWVsGVAUlYFA846Tul1BoOYnywFR7Yp0)
-  
-  
-### Clase 11 - Bootstrap (2020-12-22)
-  * Connected Episodio Clouds (Netflix)
-  * [Ejercicio Bootstrap Singolo]()
-    
-  * ### Lecturas
     * [CSS Frameworks](https://morioh.com/p/9460a2fe0049?fbclid=IwAR2sxbpYZV5zAxpCF_JM1n2pIJjWZtYh0XhzGO_Y1x3BMCVPKhbrsFLCN2M)
     * [¿Qué significa ser un desarrollador senior?](https://dev.to/tlakomy/so-what-does-it-mean-to-be-a-senior-developer-18mk?fbclid=IwAR1KhW7XkVlVrAXzPdva8Zk3ouklJjM5OKsArl6Ib-d8fEyxkyCaHaSGiOY)
 
 
-### Clase 12 - JavaScript Eventos (2020-12-24)
+### Clase 12 - JavaScript Eventos y DOM (2021-01-05)
   * Referencias sobre JS: 
     * https://developer.mozilla.org/en-US/docs/Learn/JavaScript
     * https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
-  * **PRUEBA** [Crear repo]()
   * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
   * ### Ejercicios
     * 7.0. JS events: Alert on click
@@ -278,14 +271,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 7.7. JS events: Count on click
       * 7.7.1. JS events: Change turn on click
     * 7.8. JS events: Event target
-  
-  * ### Lecturas
-    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
-    * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
-
-
-### Clase 13 - JavaScript DOM (2021-01-05)
-  * ### Ejercicios
     * 8.1. JS DOM: Select DOM elements
     * 8.2. JS DOM: Change Div Background
     * 8.3. JS DOM: Move DOM element
@@ -297,12 +282,17 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 8.9. JS DOM: Render on click
     * 8.A. JS DOM: Add LI on click
     * 8.B. JS DOM: Dynamic HTML String
-  * Avances del desarrollo de los proyectos de acuerdo a los sprints
+  
+  * ### Lecturas
+    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
+    * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
   
   * ### Video
     * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
-
+  
+  
 ### Clase 14 - JQuery DOM (2021-01-07)
+  * **PRUEBA** [Crear repo]()
   * [Ejercicio en clase JS DOM](https://github.com/DDI-ESFOT/ejercicio-dom-js)
   * ### Ejercicios
     * 9.1. JQuery DOM: Hello World
