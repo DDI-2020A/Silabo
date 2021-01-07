@@ -292,7 +292,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   
 ### Clase 14 - JQuery DOM (2021-01-07)
-  * **PRUEBA** [Crear repo]()
+  * **PRUEBA** [Crear repo](https://classroom.github.com/a/5MvqXd1R)
   * [Ejercicio en clase JS DOM](https://github.com/DDI-ESFOT/ejercicio-dom-js)
   * ### Ejercicios
     * 9.1. JQuery DOM: Hello World
