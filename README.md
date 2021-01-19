@@ -350,6 +350,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 17 - AJAX (2021-01-19)
+  * [Código intro JS](https://github.com/DDI-ESFOT/intro-js)
   * [Publicar en GitHub pages](https://www.codecademy.com/articles/f1-u3-github-pages)
   * [FakeMyAPI](https://fakemyapi.com/)
   * ## Lecturas
