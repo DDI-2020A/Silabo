@@ -387,6 +387,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 20 - React Router - Método fetch (2021-01-28)
+  * [Examen: Crear repos](https://classroom.github.com/a/SL7Rjlwv)
+
+
+
+### Clase 21 - Intro a React - Método fetch (2021-02-02)
   * [Movies]()
     * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
     * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
@@ -395,9 +400,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * ### Ejercicios
     * Navegación
     * Comunicación con una API externa
-
-
-### Clase 21 - Intro a React - Método fetch (2021-02-02)
+    
   * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
   * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
   * [Tutorial de JS](https://javascript.info/)
