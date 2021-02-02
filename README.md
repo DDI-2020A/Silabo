@@ -392,6 +392,21 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 21 - Intro a React - Método fetch (2021-02-02)
+  * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
+  * [Código de ejercicio en clase](https://github.com/DDI-ESFOT/intro-react)
+    
+  * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
+  * [Tutorial de JS](https://javascript.info/)
+  
+  
+  
+
+
+
+### Clase 22 - Componentes Reutilizables (2021-02-04)
+  * [Ejercicio Lista de tareas con React]()
+  * [Código en clase useEffect](https://github.com/DDI-ESFOT/clase22-useeffect)
   * [Movies]()
     * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
     * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
@@ -400,19 +415,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * ### Ejercicios
     * Navegación
     * Comunicación con una API externa
-    
-  * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
-  * [Tutorial de JS](https://javascript.info/)
-  
-  
-  * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
-    * [Ejercicio Lista de tareas con React]()
-
-
-
-### Clase 22 - Componentes Reutilizables (2021-02-04)
-  * [Código en clase useEffect](https://github.com/DDI-ESFOT/clase22-useeffect)
   * [Ejercicio tareas externas]()
   * ### Ejercicios
     * Componetes reutilizables
