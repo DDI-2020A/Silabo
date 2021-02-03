@@ -405,6 +405,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 22 - Componentes Reutilizables (2021-02-04)
+  * [Tutorial interactivo de React](https://www.breatheco.de/interactive-exercises)
   * [Ejercicio Lista de tareas con React]()
   * [Código en clase useEffect](https://github.com/DDI-ESFOT/clase22-useeffect)
   * [Movies]()
