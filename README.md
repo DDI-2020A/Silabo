@@ -406,7 +406,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 ### Clase 22 - Componentes Reutilizables (2021-02-04)
   * [Tutorial interactivo de React](https://www.breatheco.de/interactive-exercises)
+  * [Ejercicio Eliminar ultimo usuario de lista](https://classroom.github.com/a/EegwPM0o)
   * [Ejercicio Lista de tareas con React]()
+  
+
+### Clase 23 - Componentes Reutilizables (Antd) (2021-02-09)
   * [Código en clase useEffect](https://github.com/DDI-ESFOT/clase22-useeffect)
   * [Movies]()
     * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
@@ -422,8 +426,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * React + Antd
     * React + Material Design
 
-
-### Clase 23 - Componentes Reutilizables (Antd) (2021-02-09)
   * [Solución ejercicio todo list externa](https://github.com/chalosalvador/ejercicio-todolist-externa)
   * [Intro andtd](https://github.com/DDI-ESFOT/intro-antd/tree/antd)
   * Ejercicio antd. [Crear el repo]()
