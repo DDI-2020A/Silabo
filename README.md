@@ -407,7 +407,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 22 - Componentes Reutilizables (2021-02-04)
   * [Tutorial interactivo de React](https://www.breatheco.de/interactive-exercises)
   * [Ejercicio Eliminar ultimo usuario de lista](https://classroom.github.com/a/EegwPM0o)
-  * [Ejercicio Lista de tareas con React]()
+  * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/x8rRPQ06)
   
 
 ### Clase 23 - Componentes Reutilizables (Antd) (2021-02-09)
