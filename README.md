@@ -411,7 +411,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
 
 ### Clase 23 - Componentes Reutilizables (Antd) (2021-02-09)
-  * [Código en clase useEffect](https://github.com/DDI-ESFOT/clase22-useeffect)
+  * [Código en clase useEffect 2020A](https://github.com/DDI-ESFOT/clase22-useeffect)
+  * [Código en clase useEffect 2020B](https://github.com/DDI-ESFOT/clase23-useeffect-2020b)  
+    
+
+### Clase 24 - Personalización Antd (2021-02-11)
   * [Movies]()
     * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
     * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
@@ -448,14 +452,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
                 "user": "Nombre genérico de usuario"
               }
               ```
-    
-
-### Clase 24 - Personalización Antd (2021-02-11)
-  * [Ejercicio comentarios peliculas](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas)
 
 
 
 ### Clase 25 - React Router y Layout (2021-02-18)
+  * [Ejercicio comentarios peliculas](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas)
   * [React Router](https://reactrouter.com/)
   * [Ejemplo de React Router y Layout](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/layout)
 
