@@ -416,6 +416,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     
 
 ### Clase 24 - Personalización Antd (2021-02-11)
+  
+  * [Ejercicio tareas externas](https://classroom.github.com/a/LK6uWqsT)
+
+
+
+### Clase 25 - React Router y Layout (2021-02-18)
   * [Movies]()
     * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
     * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
@@ -424,7 +430,10 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * ### Ejercicios
     * Navegación
     * Comunicación con una API externa
-  * [Ejercicio tareas externas]()
+  * [Ejercicio comentarios peliculas](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas)
+  * [React Router](https://reactrouter.com/)
+  * [Ejemplo de React Router y Layout](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/layout)
+  
   * ### Ejercicios
     * Componetes reutilizables
     * React + Antd
@@ -452,13 +461,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
                 "user": "Nombre genérico de usuario"
               }
               ```
-
-
-
-### Clase 25 - React Router y Layout (2021-02-18)
-  * [Ejercicio comentarios peliculas](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas)
-  * [React Router](https://reactrouter.com/)
-  * [Ejemplo de React Router y Layout](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/layout)
 
 
 
