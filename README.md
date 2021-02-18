@@ -421,31 +421,14 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 25 - React Router y Layout (2021-02-18)
-  * [Movies]()
-    * Permitir la búsqueda por cualquiera de los parámetros (título, año, tipo). El usuario puede buscar por cualquier combinación de los parámetros.
-    * Añadir la paginación al ejemplo. Mostrar debajo los números de páginas que devuelva el resultado y oermitir navegar entre las páginas de resultados.
-    
-  * [Posts]()
-  * ### Ejercicios
-    * Navegación
-    * Comunicación con una API externa
-  * [Ejercicio comentarios peliculas](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas)
-  * [React Router](https://reactrouter.com/)
-  * [Ejemplo de React Router y Layout](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/layout)
+### Clase 25 - Intro Ant Design (2021-02-18)
+  * [Intro antd](https://github.com/DDI-ESFOT/intro-antd-2020b)
   
-  * ### Ejercicios
-    * Componetes reutilizables
-    * React + Antd
-    * React + Material Design
-
-  * [Solución ejercicio todo list externa](https://github.com/chalosalvador/ejercicio-todolist-externa)
-  * [Intro andtd](https://github.com/DDI-ESFOT/intro-antd/tree/antd)
-  * Ejercicio antd. [Crear el repo]()
-    * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
+  * Ejercicio antd. [Crear el repo](https://classroom.github.com/a/piq9sp1r)
+    * Formulario que me permita buscar peliculas por título desde api omdb (http://www.omdbapi.com/)
     * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
-      * Se debe mostrar la imagen, título, género, director directamente en el card
-      * Cada card tiene 2 botones en su footer
+      * Se debe mostrar la imagen, título, año en el card
+      * Cada card tiene 1 botón en su footer
         * 1. Ver detalles, ícono: <EyeOutlined />. Abre un modal con la siguiente info:
             * Muestra todo el resto de atributos de la película utilizando el componente: https://ant.design/components/descriptions/#components-descriptions-demo-border
             * Debe mostrar los comentarios debajo , con el componente: https://ant.design/components/comment/#components-comment-demo-list
