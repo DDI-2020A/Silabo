@@ -448,7 +448,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 26 - Firebase - Lectura y Escritura en Firebase (2021-02-23)
-  * [Ejemplo Firebase](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/firebase)
+  * [Solucion modal peliculas](https://github.com/DDI-ESFOT/ejercicio-antd-solucion)
   * ### Deber
     * Leer sobre la [Estructura de datos en Firebase](https://firebase.google.com/docs/database/web/structure-data)
     * Inicializar Firebase en sus proyectos
@@ -456,6 +456,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 27 - Lectura y Escritura en Firebase (2021-02-25)
+  * [Ejemplo Firebase](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/firebase)
   * [Ejemplo completo Firebase](https://github.com/DDI-ESFOT/ejercicio-cometarios-peliculas/tree/firebase)
     
 
