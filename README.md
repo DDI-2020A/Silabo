@@ -43,7 +43,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 1 - Presentación (2021-06-01)
   * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUQ1c2TlFRU0RZVEJGRlVGRDNMSTRaMjg1Uy4u)
   * Verificar instalaciones WebStorm y VSCode.
-  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/EhPswlIurK5CujpRnY2L948BHEe2A0L-NXO4kHyisNax1A?e=3ShidQ)
+  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Emw67FvdGTVKoiBvWEfOv48B2-a8k_VOtPIWjJrtmSf3Fg?e=ZxHpUr)
  
   
 ### Clase 2 - HTML (2021-06-03)
