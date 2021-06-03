@@ -49,7 +49,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 2 - HTML (2021-06-03)
   * [Ideas para implementación de proyecto de curso](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ERrEHkqFCchGsmQfHh8xEmMBByYb4LUEB94Kjx72PLEVxw?e=WOXFQH)
   * Formación de grupos
-  * [Tutorial interactivo de HTML](https://repl.it/classroom/invite/zVeE2yH)
+  * [Tutorial interactivo de HTML](https://www.breatheco.de/interactive-exercise/html-exercises)
 
   * ### Deber
     * Tema o nombre
