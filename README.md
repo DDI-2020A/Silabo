@@ -49,8 +49,15 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 ### Clase 2 - HTML (2021-06-03)
   * [Ideas para implementación de proyecto de curso](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ERrEHkqFCchGsmQfHh8xEmMBByYb4LUEB94Kjx72PLEVxw?e=WOXFQH)
   * Formación de grupos
-  * [Unirse a la clase en Replit](https://repl.it/classroom/invite/zVeE2yH)
-  * [Ejemplo en clase de html](https://github.com/DDI-ESFOT/intro-html)
+  * [Tutorial interactivo de HTML](https://repl.it/classroom/invite/zVeE2yH)
+
+  * ### Deber
+    * Tema o nombre
+    * Descripción corta
+    * Objetivos
+    * Lista de funcionalidades
+    * Generar un diagrama de flujo
+    * Definición de los usuarios (https://www.hubspot.com/make-my-persona)
       
   * ### Ejercicios
     * 1.1. HTML: Hello World
