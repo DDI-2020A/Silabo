@@ -79,13 +79,13 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
 
     
-### Clase 3 - CSS (2020-11-24)
-  * Definición del proyecto:
-    * Nombre del proyecto
-    * Objetivo
-    * Tipo de usuarios al que está dirigida
-      * Ser lo más especificos en el tipo de usuarios, ejemplo: Hombre y mujeres deportistas de 25 a 35 años.
-    * Listar las funcionalidades principales de la página.
+### Clase 3 - CSS (2021-06-08)
+  * Instrucciones para usar el tutorial localmente:
+    * npm i learnpack -g
+    * learnpack download:exercises
+    * cd html-tutorial-exercises-course
+    * npm i jest@24.8.0 -g
+    * learnpack run
   
   * Git (https://rogerdudler.github.io/git-guide/index.es.html)
     * init
