@@ -114,12 +114,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 2.D. CSS: Anchor like button
 
 
-### Clase 4 - Prototipado (2020-11-26)
+### Clase 4 - Prototipado (2021-06-10)
   * Diagramas de flujo del usuario. [Miro](https://miro.com/)
   * [Crear los Buyer personas](https://www.hubspot.es/make-my-persona)
   
   
-### Clase 5 - CSS Scaffolding (2020-12-01)
+### Clase 5 - CSS Scaffolding (2021-06-15)
   * Recursos de referencia de HTML:
     * https://developer.mozilla.org/en-US/docs/Learn/HTML
     * https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
