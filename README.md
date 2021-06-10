@@ -89,6 +89,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   * Git (https://rogerdudler.github.io/git-guide/index.es.html)
     * init
+    * status
     * add
     * commit
     * push
@@ -96,6 +97,9 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * clone
     * remote
     * merge
+    * git checkout -b nombre-de-rama (crear una nueva rama)
+    * git checkout nombre-de-rama (movernos a otra rama que ya existe)
+    * git log (ver el hsitorial de commits)
     * Resolución de conflictos
   
   * ### Ejercicios
