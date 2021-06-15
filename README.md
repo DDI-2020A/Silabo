@@ -119,7 +119,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 ### Clase 4 - Prototipado (2021-06-10)
-   * Recursos de referencia de HTML:
+  * Recursos de referencia de HTML:
     * https://developer.mozilla.org/en-US/docs/Learn/HTML
     * https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
   * Recursos de referencia de CSS: 
