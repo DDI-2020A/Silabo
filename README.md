@@ -154,7 +154,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * Pseudo selectores (:hover, :active: :focused, :visited)
   * Overflow
   * [Position fixed, absolute, sticky](https://developer.mozilla.org/es/docs/Web/CSS/position)
-  
+  * [Ejercicio HTML y CSS básico](https://classroom.github.com/a/eCm5pBJl). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
+
   * ### Lecturas
     * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
   
@@ -172,7 +173,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 4.9. Layouts: ::Before and ::After
       * 4.9.2. Layouts: Calendar icon
     * 4.A. Layouts: Static layout
-  * [Ejercicio HTML y CSS básico](https://classroom.github.com/a/qFwuzpk4). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
   * [Resolución parcial del Ejercicio HTML y CSS básico](https://github.com/DDI-ESFOT/html-y-css-basico-chalosalvador)
   
   
