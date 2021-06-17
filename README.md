@@ -132,11 +132,26 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
   
 ### Clase 5 - CSS Scaffolding (2021-06-15)
+  * Intro a Git
+
+### Clase 6 - CSS Scaffolding (2021-06-17)  
+  * [Tutorial CSS](https://www.breatheco.de/interactive-exercise/css-exercises)
+  * [Ejercicio HTML y CSS básico](https://classroom.github.com/a/eCm5pBJl). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
+
+  * ### Lecturas
+    * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+  
+    
+### Clase 7 - CSS Layouts (2021-06-22)
+  * Fontawesome
+  * Pseudo selectores (:hover, :active: :focused, :visited)
+  * Overflow
+  * [Position fixed, absolute, sticky](https://developer.mozilla.org/es/docs/Web/CSS/position)
+  
   * Herramientas de prototipado
     * [Marvel](https://marvelapp.com/)
     * [Ninja Mock](https://ninjamock.com/)
     * [Balsamic](https://balsamiq.com/)
-  * Desarrollo de Mockups de los proyectos
   
   * ### Ejercicios
     * 3.1. Scaffolding: Display - block vs inline
@@ -147,22 +162,15 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 3.6. Scaffolding: Centered container
     * 3.7. Scaffolding: Position - Fixed
     * 3.8. Scaffolding: Overflow
-
-### Clase 6 - CSS Scaffolding (2021-06-17)  
-  * [Tutorial CSS](https://www.breatheco.de/interactive-exercise/css-exercises)
-  * Revisión y corrección de Mockups de los proyectos
-  * Fontawesome
-  * Pseudo selectores (:hover, :active: :focused, :visited)
-  * Overflow
-  * [Position fixed, absolute, sticky](https://developer.mozilla.org/es/docs/Web/CSS/position)
-  * [Ejercicio HTML y CSS básico](https://classroom.github.com/a/eCm5pBJl). Escribir el HTML y CSS para la página que se encuentra en la imagen, el resultado debe ser lo más similar posible a la imagen. La imagen del header se encuentra en el directorio images.
-
-  * ### Lecturas
-    * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
-  
     
-### Clase 7 - CSS Layouts (2021-06-22)
-  * ### Ejercicios
+  
+### Clase 8 - CSS Layouts (2021-06-24)
+  * [Mockups básicos](). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes.
+  * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
+  * [Crear repositorios grupales]()
+  * Completar el Backlog de los proyectos en tablero de ZenHub
+  
+   * ### Ejercicios
     * 4.1. Layouts: Display: none;
     * 4.2. Layouts: Position: relative vs absolute
     * 4.3. Layouts: Move image behind the text
@@ -174,14 +182,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 4.9. Layouts: ::Before and ::After
       * 4.9.2. Layouts: Calendar icon
     * 4.A. Layouts: Static layout
-  * [Resolución parcial del Ejercicio HTML y CSS básico](https://github.com/DDI-ESFOT/html-y-css-basico-chalosalvador)
-  
-  
-### Clase 8 - CSS Layouts (2021-06-24)
-  * [Mockups básicos](https://classroom.github.com/a/FqsO01bu). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes.
-  * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
-  * [Crear repositorios grupales](https://classroom.github.com/g/C2iPTNBU)
-  * Completar el Backlog de los proyectos en tablero de ZenHub
 
     
 ### Clase 9 - HTML Formularios (2021-06-29)
@@ -210,8 +210,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 6.6. Bootstrap: Buttons, alerts, glyphicon and table
     * 6.7. Bootstrap: Forms
   * [Ejemplo básico bootstrap](https://github.com/DDI-ESFOT/ejemplo-basico-bootstrap)
-  * [Completar ejercicio de bootstrap](https://classroom.github.com/a/ahGhygxB)
-  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/gTKZOpFz)
+  * [Completar ejercicio de bootstrap]()
+  * [Ejercicio Bootstrap Singolo]()
   
   * Material de diseño
     * Diseños
