@@ -148,7 +148,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 3.7. Scaffolding: Position - Fixed
     * 3.8. Scaffolding: Overflow
 
-### Clase 6 - CSS Scaffolding (2020-12-03)  
+### Clase 6 - CSS Scaffolding (2021-06-17)  
   * Revisión y corrección de Mockups de los proyectos
   * Fontawesome
   * Pseudo selectores (:hover, :active: :focused, :visited)
@@ -161,7 +161,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
   
     
-### Clase 7 - CSS Layouts (2020-12-08)
+### Clase 7 - CSS Layouts (2021-06-22)
   * ### Ejercicios
     * 4.1. Layouts: Display: none;
     * 4.2. Layouts: Position: relative vs absolute
@@ -178,14 +178,14 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * [Resolución parcial del Ejercicio HTML y CSS básico](https://github.com/DDI-ESFOT/html-y-css-basico-chalosalvador)
   
   
-### Clase 8 - CSS Layouts (2020-12-10)
+### Clase 8 - CSS Layouts (2021-06-24)
   * [Mockups básicos](https://classroom.github.com/a/FqsO01bu). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes.
   * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
   * [Crear repositorios grupales](https://classroom.github.com/g/C2iPTNBU)
   * Completar el Backlog de los proyectos en tablero de ZenHub
 
     
-### Clase 9 - HTML Formularios (2020-12-15)
+### Clase 9 - HTML Formularios (2021-06-29)
   * [Ejemplo forms](https://github.com/DDI-ESFOT/intro-forms)
   * [Referencia para fomularios HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Your_first_HTML_form)
   * ### Ejercicios
@@ -198,7 +198,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 5.7. Forms: Spectacular login form
  
  
-### Clase 11 - Bootstrap (2020-12-22)
+### Clase 11 - Bootstrap (2021-07-01)
   * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
   * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
   * ### Ejercicios
