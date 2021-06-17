@@ -149,6 +149,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 3.8. Scaffolding: Overflow
 
 ### Clase 6 - CSS Scaffolding (2021-06-17)  
+  * [Tutorial CSS](https://www.breatheco.de/interactive-exercise/css-exercises)
   * Revisión y corrección de Mockups de los proyectos
   * Fontawesome
   * Pseudo selectores (:hover, :active: :focused, :visited)
