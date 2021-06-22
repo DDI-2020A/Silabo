@@ -149,6 +149,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * [Position fixed, absolute, sticky](https://developer.mozilla.org/es/docs/Web/CSS/position)
   
   * Herramientas de prototipado
+    * [Figma](http://figma.com/)
     * [Marvel](https://marvelapp.com/)
     * [Ninja Mock](https://ninjamock.com/)
     * [Balsamic](https://balsamiq.com/)
