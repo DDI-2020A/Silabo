@@ -167,9 +167,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
 ### Clase 8 - CSS Layouts (2021-06-24)
   * [Mockups básicos](https://classroom.github.com/a/sUYh-m33). Escribir el HTML y CSS para las 4 páginas de las imágenes, el resultado debe ser lo más parecido a las imágenes.
-  * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
-  * [Crear repositorios grupales]()
-  * Completar el Backlog de los proyectos en tablero de ZenHub
   
    * ### Ejercicios
     * 4.1. Layouts: Display: none;
@@ -186,6 +183,9 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
     
 ### Clase 9 - HTML Formularios (2021-06-29)
+  * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
+  * [Crear repositorios grupales]()
+  * Completar el Backlog de los proyectos en tablero de ZenHub
   * [Ejemplo forms](https://github.com/DDI-ESFOT/intro-forms)
   * [Referencia para fomularios HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Your_first_HTML_form)
   * ### Ejercicios
@@ -198,7 +198,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 5.7. Forms: Spectacular login form
  
  
-### Clase 11 - Bootstrap (2021-07-01)
+### Clase 10 - Bootstrap (2021-07-01)
   * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
   * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
   * ### Ejercicios
