@@ -184,7 +184,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     
 ### Clase 9 - HTML Formularios (2021-06-29)
   * [Instalar ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=es)
-  * [Crear repositorios grupales]()
+  * [Crear repositorios grupales](https://classroom.github.com/g/RyEgCcwc)
   * Completar el Backlog de los proyectos en tablero de ZenHub
   * [Ejemplo forms](https://github.com/DDI-ESFOT/intro-forms)
   * [Referencia para fomularios HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Your_first_HTML_form)
