@@ -199,6 +199,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
  
  
 ### Clase 10 - Bootstrap (2021-07-01)
+  * [Ejercicios interactivos de Bootstrap](https://www.breatheco.de/interactive-exercise/bootstrap-exercises)
   * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
   * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
   * ### Ejercicios
