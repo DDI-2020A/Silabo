@@ -302,7 +302,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
   
   
-### Clase 14 - JQuery DOM (2021-01-07)
+### Clase 14 - JQuery DOM (2021-07-06)
   * **PRUEBA** [Crear repo](https://classroom.github.com/a/5MvqXd1R)
   * [Ejercicio en clase JS DOM](https://github.com/DDI-ESFOT/ejercicio-dom-js)
   * ### Ejercicios
@@ -325,7 +325,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 9.H. JQuery DOM: Animate Rocket (part-2)
 
 
-### Clase 15 - AJAX (2021-01-12)
+### Clase 15 - AJAX (2021-07-09)
   * Definir métodos de evaluación: 
     * Opción 1: Examen
     * Opción 2: Miniproyecto (Se define implementar esta opción)
@@ -356,11 +356,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
 
 
-### Clase 16 - JavaScript DOM (2021-01-14)
+### Clase 16 - JavaScript DOM (2021-07-13)
   * Intro JSON con jQuery
 
 
-### Clase 17 - AJAX (2021-01-19)
+### Clase 17 - AJAX (2021-07-15)
   * [Código intro JS](https://github.com/DDI-ESFOT/intro-js)
   * [Publicar en GitHub pages](https://www.codecademy.com/articles/f1-u3-github-pages)
   * [FakeMyAPI](https://fakemyapi.com/)
@@ -371,7 +371,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [Maneras de iterar un arreglo en JS](https://dev.to/misterkevin_js/11-ways-to-iterate-an-array-javascript-3mjg?fbclid=IwAR19YbdOMvk3WHlThK2bgx4FbVzGx9gpIwSpe4fWsHfi8mif10RWDjIzuWQ)
 
 
-### Clase 18 - React (2021-01-21)
+### Clase 18 - React (2021-07-20)
   * Recursos de referencia para React
     * https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
     * https://reactjs.org/docs/getting-started.html
@@ -393,16 +393,16 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
 
 
 
-### Clase 19 - React (2021-01-26)
+### Clase 19 - React (2021-07-22)
   * ### ENTREGA DISEÑOS
 
 
-### Clase 20 - React Router - Método fetch (2021-01-28)
+### Clase 20 - React Router - Método fetch (2021-07-27)
   * [Examen: Crear repos](https://classroom.github.com/a/SL7Rjlwv)
 
 
 
-### Clase 21 - Intro a React - Método fetch (2021-02-02)
+### Clase 21 - Intro a React - Método fetch (2021-07-29)
   * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
   * [Código de ejercicio en clase](https://github.com/DDI-ESFOT/intro-react)
     
