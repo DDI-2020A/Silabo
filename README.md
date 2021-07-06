@@ -265,7 +265,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [¿Qué significa ser un desarrollador senior?](https://dev.to/tlakomy/so-what-does-it-mean-to-be-a-senior-developer-18mk?fbclid=IwAR1KhW7XkVlVrAXzPdva8Zk3ouklJjM5OKsArl6Ib-d8fEyxkyCaHaSGiOY)
 
 
-### Clase 12 - JavaScript Eventos y DOM (2021-01-05)
+### Clase 12 - JavaScript Eventos y DOM (2021-07-06)
+  * [Intro forms](https://github.com/DDI-ESFOT/intro-forms-html)
   * Referencias sobre JS: 
     * https://developer.mozilla.org/en-US/docs/Learn/JavaScript
     * https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf
