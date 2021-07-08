@@ -198,23 +198,11 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 5.7. Forms: Spectacular login form
  
  
-### Clase 10 - Bootstrap (2021-07-01)
-  * [Ejercicios interactivos de Bootstrap](https://www.breatheco.de/interactive-exercise/bootstrap-exercises)
+### Clase 10 -  HTML Formularios (2021-07-01)
+  * [Intro forms](https://github.com/DDI-ESFOT/intro-forms-html)
   * [Referencia selectores CSS](https://www.w3schools.com/cssref/css_selectors.asp)
   * [Más referencias sobre Git](https://dev.to/g_abud/advanced-git-reference-1o9j?fbclid=IwAR2A5zEeZVXesMs7IeviJ9MXjvv3I7RDlx6XYmqGJRUg72-_0Zwr7jmXnF4)
-  * ### Ejercicios
-    * 6.0. Bootstrap: Add bootstrap to your website
-    * 6.1. Boostrap: Skeleton
-    * 6.2. Bootstrap: Grid
-    * 6.3. Bootstrap: Navbar
-    * 6.4. Bootstrap: Sidebar with menu
-    * 6.5. Bootstrap: Jumbotron and 3 boxes
-    * 6.6. Bootstrap: Buttons, alerts, glyphicon and table
-    * 6.7. Bootstrap: Forms
-  * [Ejemplo básico bootstrap](https://github.com/DDI-ESFOT/ejemplo-basico-bootstrap)
-  * [Completar ejercicio de bootstrap]()
-  * [Ejercicio Bootstrap Singolo]()
-  
+ 
   * Material de diseño
     * Diseños
       * [Diseños de páginas (ver en la opción others)](https://delesign.com/free-designs/website)
@@ -266,12 +254,39 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [¿Qué significa ser un desarrollador senior?](https://dev.to/tlakomy/so-what-does-it-mean-to-be-a-senior-developer-18mk?fbclid=IwAR1KhW7XkVlVrAXzPdva8Zk3ouklJjM5OKsArl6Ib-d8fEyxkyCaHaSGiOY)
 
 
-### Clase 12 - JavaScript Eventos y DOM (2021-07-06)
-  * [Intro forms](https://github.com/DDI-ESFOT/intro-forms-html)
+### Clase 12 - Bootstrap (2021-07-06)
+  * [Ejercicios interactivos de Bootstrap](https://www.breatheco.de/interactive-exercise/bootstrap-exercises)
+  * ### Ejercicios
+    * 6.0. Bootstrap: Add bootstrap to your website
+    * 6.1. Boostrap: Skeleton
+    * 6.2. Bootstrap: Grid
+    * 6.3. Bootstrap: Navbar
+    * 6.4. Bootstrap: Sidebar with menu
+    * 6.5. Bootstrap: Jumbotron and 3 boxes
+    * 6.6. Bootstrap: Buttons, alerts, glyphicon and table
+    * 6.7. Bootstrap: Forms
+  
   * Referencias sobre JS: 
     * https://developer.mozilla.org/en-US/docs/Learn/JavaScript
     * https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf
   * Avances del desarrollo de los proyectos de acuerdo a los sprints
+  
+  * ### Lecturas
+    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
+    * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
+  
+  * ### Video
+    * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
+  
+  
+### Clase 14 - Bootstrap (2021-07-08)
+  * [Ejemplo básico bootstrap]()
+  * [Completar ejercicio de bootstrap]()
+  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/ksG_MNDt)
+ 
+
+
+### Clase 15 - JavaScript Eventos y DOM (2021-07-13)
   * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
   * ### Ejercicios
     * 7.0. JS events: Alert on click
@@ -295,47 +310,6 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * 8.9. JS DOM: Render on click
     * 8.A. JS DOM: Add LI on click
     * 8.B. JS DOM: Dynamic HTML String
-  
-  * ### Lecturas
-    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
-    * [How To Create Pixel Perfect Layout Models](https://dev.to/jfelx/how-to-create-pixel-perfect-layouts-models-1dkg)
-  
-  * ### Video
-    * [¿Qué es THIS en JS?](https://morioh.com/p/40f7d28f8209?fbclid=IwAR2ERSHhgGF6ruTM_tKAK-YcQjbE7hni9osWbePl4ID5522KfE6vnevgMko)
-  
-  
-### Clase 14 - JQuery DOM (2021-07-06)
-  * **PRUEBA** [Crear repo](https://classroom.github.com/a/5MvqXd1R)
-  * [Ejercicio en clase JS DOM](https://github.com/DDI-ESFOT/ejercicio-dom-js)
-  * ### Ejercicios
-    * 9.1. JQuery DOM: Hello World
-    * 9.2. JQuery DOM: Hello on click
-    * 9.3. JQuery DOM: Hide div on click
-    * 9.4. JQuery DOM: Print mouse coordinates on click
-    * 9.5. JQuery DOM: Get clicked element html content
-    * 9.6. JQuery DOM: Clicked visual effect (part-1)
-    * 9.7. JQuery DOM: Clicked Visual effect (part-2)
-    * 9.8. JQuery DOM: Sum calculator
-    * 9.9. JQuery DOM: Overlay hover (part-1)
-    * 9.A. JQuery DOM: Overlay hover (part-2)
-    * 9.B. JQuery DOM: Prevent Default
-    * 9.C. JQuery DOM: Event propagation
-    * 9.D. JQuery DOM: Button Parent
-    * 9.E. JQuery DOM: Simple Counter
-    * 9.F. JQuery DOM: foreach table lastnames
-    * 9.G. JQuery DOM: Animate Rocket (part-1)
-    * 9.H. JQuery DOM: Animate Rocket (part-2)
-
-
-### Clase 15 - AJAX (2021-07-09)
-  * Definir métodos de evaluación: 
-    * Opción 1: Examen
-    * Opción 2: Miniproyecto (Se define implementar esta opción)
-    * [Ejemplo jQuery](https://github.com/DDI-ESFOT/clase-jquery) para ejecutar el proyecto, deben clonarlo y dentro del proyecto ejecutar `npm i`
-    
-  * Mostrar proceso de Figma con Antd
-  
-  * ### Ejercicios
     * A.1. AJAX: GET - Hello World
     * A.2. AJAX: Hello World
     * A.3. AJAX: Success and Error
@@ -358,11 +332,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
 
 
-### Clase 16 - JavaScript DOM (2021-07-13)
-  * Intro JSON con jQuery
+### Clase 16 - JavaScript DOM (2021-07-15)
+  * **PRUEBA** [Crear repo](https://classroom.github.com/a/5MvqXd1R)
+  * [Ejercicio en clase JS DOM](https://github.com/DDI-ESFOT/ejercicio-dom-js)
 
 
-### Clase 17 - AJAX (2021-07-15)
+### Clase 17 - AJAX (2021-07-20)
   * [Código intro JS](https://github.com/DDI-ESFOT/intro-js)
   * [Publicar en GitHub pages](https://www.codecademy.com/articles/f1-u3-github-pages)
   * [FakeMyAPI](https://fakemyapi.com/)
@@ -373,7 +348,7 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
     * [Maneras de iterar un arreglo en JS](https://dev.to/misterkevin_js/11-ways-to-iterate-an-array-javascript-3mjg?fbclid=IwAR19YbdOMvk3WHlThK2bgx4FbVzGx9gpIwSpe4fWsHfi8mif10RWDjIzuWQ)
 
 
-### Clase 18 - React (2021-07-20)
+### Clase 18 - React (2021-07-22)
   * Recursos de referencia para React
     * https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
     * https://reactjs.org/docs/getting-started.html
@@ -394,17 +369,16 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
 
 
-
-### Clase 19 - React (2021-07-22)
+### Clase 19 - React (2021-07-27)
   * ### ENTREGA DISEÑOS
 
 
-### Clase 20 - React Router - Método fetch (2021-07-27)
+### Clase 20 - React Router - Método fetch (2021-07-29)
   * [Examen: Crear repos](https://classroom.github.com/a/SL7Rjlwv)
 
 
 
-### Clase 21 - Intro a React - Método fetch (2021-07-29)
+### Clase 21 - Intro a React - Método fetch (2021-08-03)
   * ### [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
   * [Código de ejercicio en clase](https://github.com/DDI-ESFOT/intro-react)
     
@@ -413,11 +387,8 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   * [Tutorial de JS](https://javascript.info/)
   
   
-  
 
-
-
-### Clase 22 - Componentes Reutilizables (2021-02-04)
+### Clase 22 - Componentes Reutilizables (2021-08-06)
   * [Tutorial interactivo de React](https://www.breatheco.de/interactive-exercises)
   * [Ejercicio Eliminar ultimo usuario de lista](https://classroom.github.com/a/EegwPM0o)
   * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/x8rRPQ06)
