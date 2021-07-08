@@ -281,12 +281,12 @@ Cada semana se deberán completar los ejercicios listados en la sección **Ejerc
   
 ### Clase 14 - Bootstrap (2021-07-08)
   * [Ejemplo básico bootstrap]()
-  * [Completar ejercicio de bootstrap]()
-  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/ksG_MNDt)
+  * [Completar ejercicio de Clemo bootstrap](https://classroom.github.com/a/9PITTD5Z)
  
 
 
 ### Clase 15 - JavaScript Eventos y DOM (2021-07-13)
+  * [Ejercicio Bootstrap Singolo](https://classroom.github.com/a/ksG_MNDt)
   * [Intro a JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EeMq0pqTgvJPupMQBO0uBHoBYYAkiv87NWQIIszkKJW1jQ?e=KJVxSO)
   * ### Ejercicios
     * 7.0. JS events: Alert on click
